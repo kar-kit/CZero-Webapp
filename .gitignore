@@ -1,0 +1,61 @@
+# Dependencies
+frontend/node_modules/
+.pnp
+.pnp.*
+frontend/yarn.lock
+frontend/package-lock.json
+
+# Parent directory ignore adjustment
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.*
+frontend/yarn.lock
+frontend/package-lock.json
+
+# Testing outputs
+coverage/
+../coverage
+
+# Next.js outputs
+.next/
+out/
+
+# Production
+build/
+../build
+
+# Miscellaneous
+.DS_Store
+*.pem
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env*
+../.env*
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel deployment files
+.vercel
+../.vercel
+
+# Ignore frontend directories specifically
+frontend/.next/
+frontend/out/
+frontend/node_modules/
+
+# Ignore backend logs, caches, or temporary files
+backend/.cache
+backend/node_modules
+backend/.env
+backend/*.log
+
+frontend/.cache
+frontend/package-lock.json
+frontend/.env
+frontend/*.log
