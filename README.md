@@ -27,4 +27,4 @@ cd frontend && npm install && npm run dev    # :3000
 
 ---
 
-**Honest framing:** this is a starting point that didn't get built on, kept for completeness. For finished work see [SticksNBoulders](https://github.com/kar-kit/SticksNBoulders), [MemoAI](https://github.com/kar-kit/FYP26-Frontend) or [PaperFind](https://github.com/kar-kit/paperfind).
+**Honest framing:** this is a starting point that didn't get built on, kept for completeness. For finished work see [SticksNBoulders](https://github.com/kar-kit/SticksNBoulders), [MemoAI](https://github.com/kar-kit/MemoAI) or [PaperFind](https://github.com/kar-kit/paperfind).
